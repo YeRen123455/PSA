@@ -1,5 +1,5 @@
 # Learning Pixel-level Semantic Affinity with Image-level Supervision
-$T$  $\lambda$ 
+
 **This code is deprecated. Please see https://github.com/jiwoon-ahn/irn instead.**
 
 ![outline](fig_outline.png)
@@ -79,6 +79,6 @@ python3 infer_aff.py --infer_list [voc12/val.txt | voc12/train.txt] --voc12_root
 | ------------- |:-----:|:---------------:|:-------------:|:-----:|
 | VGG-16        | 4/16/32 | 59.6 | 54.0 | [[Weights]](https://drive.google.com/file/d/10ue1B20Q51aQ53T93RiaiKETlklzo4jp/view?usp=sharing) |
 | ResNet-38     | 4/16/32 | 61.0 | 60.2 | [[Weights]](https://drive.google.com/open?id=1mFvTH3siw0SS0vqPH0o9N3cI_ISQacwt) |
-| ResNet-38     | 4/16/24 | 58.1 | 57.0 | CVPR submission |
+| ResNet-38     | 4/16/24 | 58.1 | 57.0 | CVPR submission | 
 
 >*beta=8, gamma=5, t=256 for all settings
