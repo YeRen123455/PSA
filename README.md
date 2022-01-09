@@ -1,5 +1,5 @@
 # Learning Pixel-level Semantic Affinity with Image-level Supervision
-
+$T$  $\lambda$ 
 **This code is deprecated. Please see https://github.com/jiwoon-ahn/irn instead.**
 
 ![outline](fig_outline.png)
